@@ -1,0 +1,16 @@
+#myCanvas {
+    background-color: white;
+    border-color:red;
+    border-width:10px;
+    border-style:double;
+}
+h1 {
+    font-family: 'Bukhari Script';
+    color:antiquewhite;
+}
+
+body {
+    text-align: center;
+    background-image: url("ajaymom.png");
+ background-size:cover;
+}
